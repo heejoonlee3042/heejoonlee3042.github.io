@@ -1,7 +1,7 @@
 # 이희준 李禧俊 leeheejoon
 ### ![image](https://github.com/user-attachments/assets/8450b24b-37a7-4728-8009-0fba4c34a71e)
 ###### born october third two thousand six around one pm
-###### [개천절](https://www.google.com "Google's Homepage")
+###### [개천절](https://www.youtube.com/watch?v=cm8_rkan5qo)
 
 
 Alt-H1
