@@ -8,6 +8,7 @@
 
 ------
 
+<img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
 bless.jpg
 
