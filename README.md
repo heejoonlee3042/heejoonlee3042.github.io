@@ -9,6 +9,7 @@
 ------
 
 ![alt text here](fight.tif)
+bless.jpg
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
