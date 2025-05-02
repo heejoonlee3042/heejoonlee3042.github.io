@@ -1,6 +1,8 @@
 # ![image](https://github.com/user-attachments/assets/5b446558-855b-4851-b443-354dad46ee77)
 
-###### 이희준 李禧俊 HeeJoonLee
+######            이희준
+######            李禧俊
+######         HeeJoonLee
 ###### born october third two thousand six around one pm
 ###### [개천절](https://www.youtube.com/watch?v=cm8_rkan5qo)
 
