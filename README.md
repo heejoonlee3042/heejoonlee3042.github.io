@@ -1,7 +1,6 @@
 # heejoonlee
 ### 이희준 李禧俊
 ###### born october third two thousand six around one pm
-###### 개천절
 ###### [개천절](https://www.google.com "Google's Homepage")
 
 
