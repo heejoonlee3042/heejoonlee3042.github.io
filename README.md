@@ -2,7 +2,7 @@
 # 이희준 李禧俊
 #### born october third two thousand six around one pm
 ##### 개천절
-###### [https://www.youtube.com/watch?v=52UJJuF__hc]
+###### [개천절](https://www.google.com "Google's Homepage")
 
 Alternatively, for H1 and H2, an underline-ish style:
 
