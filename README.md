@@ -225,7 +225,8 @@ WORKS
 <br>
 <br>
 
-<details open>
+<p align="center">
+<details close>
 <summary>lightroom</summary>
 
 <p align="center">
@@ -250,12 +251,13 @@ fight
 </p>
 
 </details>
+</p>
 
 <br>
 <br>
 <br>
 
-<details open>
+<details close>
 <summary>photoshop</summary>
 
 </details>
