@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-<img src = "heejoonleebioimg.png" width = 1500>
+<img src = "heejoonleebioimg.png" width = 2000>
 </p>
 
 <br>
