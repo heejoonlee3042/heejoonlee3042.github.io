@@ -2,9 +2,21 @@
 
 <p align="center">
 ######            이희준
+</p>
+
+<p align="center">
 ######            李禧俊
+</p>
+
+<p align="center"> 
 ######         HeeJoonLee
+</p>
+
+<p align="center"> 
 ###### born october third two thousand six around one pm
+</p>
+
+<p align="center">
 ###### [개천절](https://www.youtube.com/watch?v=cm8_rkan5qo)
 </p>
 
