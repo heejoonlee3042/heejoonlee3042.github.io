@@ -333,6 +333,15 @@ manifesto
 <details close>
 <summary>premiere</summary>
 
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=v5iusmgbu18
+" target="_blank"><img src="http://img.youtube.com/vi/v5iusmgbu18/0.jpg" 
+width="300" height="180" border="10" /></a>
+</p>
+<p align="center">
+ialwayshavemytoesonthegas
+</p>
+
 </details>
 </p>
 
