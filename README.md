@@ -99,13 +99,9 @@ BIO
 이희준
 </p>
 
-<br>
-
 <p align="center">
 李禧俊
 </p>
-
-<br>
 
 <p align="center"> 
 HeeJoonLee
@@ -121,8 +117,6 @@ HeeJoonLee
 <p align="center"> 
 born october third two thousand six around one pm
 </p>
-
-<br>
 
 <p align="center">
 개천절
@@ -149,6 +143,14 @@ Seoul, Los Angeles, New York
 <p align="center">
 heejoonlee3042@gmail.com
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ------
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
