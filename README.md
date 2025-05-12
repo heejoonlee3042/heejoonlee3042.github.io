@@ -229,6 +229,9 @@ WORKS
 <details close>
 <summary>lightroom</summary>
 
+<br>
+<br>
+
 <p align="center">
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 700>
 </p>
@@ -236,12 +239,18 @@ WORKS
 caught
 </p>
 
+<br>
+<br>
+
 <p align="center">
 <img src = "PortfolioImages/caught 2 (1).jpg" width = 700>
 </p>
 <p align="center">
 measuring
 </p>
+
+<br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 700>
