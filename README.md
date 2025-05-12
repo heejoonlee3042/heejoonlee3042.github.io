@@ -230,21 +230,21 @@ WORKS
 <summary>lightroom</summary>
 
 <p align="center">
-<img src = "PortfolioImages/fight 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/fight 2 (1).jpg" width = 700>
 </p>
 <p align="center">
 caught
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/caught 2 (1).jpg" width = 500>
+<img src = "PortfolioImages/caught 2 (1).jpg" width = 700>
 </p>
 <p align="center">
 measuring
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 500>
+<img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 700>
 </p>
 <p align="center">
 fight
@@ -264,14 +264,14 @@ fight
 <summary>photoshop</summary>
 
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 500>
+<img src = "PortfolioImages/bless.jpg" width = 700>
 </p>
 <p align="center">
 bless
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 500>
+<img src = "PortfolioImages/bless.jpg" width = 700>
 </p>
 <p align="center">
 bless
@@ -291,7 +291,7 @@ bless
 <summary>illustrator</summary>
 
 <p align="center">
-<img src = "PortfolioImages/manifesto 2 (1).jpg" width = 500>
+<img src = "PortfolioImages/manifesto 2 (1).jpg" width = 700>
 </p>
 <p align="center">
 manifesto
@@ -324,6 +324,50 @@ manifesto
 
 </details>
  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
