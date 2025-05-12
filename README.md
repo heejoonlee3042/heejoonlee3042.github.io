@@ -66,11 +66,41 @@ BIO
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
 이희준
 </p>
 
+<br>
+<br>
 <br>
 
 <p align="center">
@@ -78,11 +108,18 @@ BIO
 </p>
 
 <br>
+<br>
+<br>
 
 <p align="center"> 
 HeeJoonLee
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <p align="center"> 
@@ -90,17 +127,29 @@ born october third two thousand six around one pm
 </p>
 
 <br>
+<br>
+<br>
 
 <p align="center">
 개천절
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
 Seoul, Los Angeles, New York
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <p align="center">
