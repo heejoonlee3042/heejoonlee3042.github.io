@@ -333,8 +333,6 @@ manifesto
 <details close>
 <summary>premiere</summary>
 
-</details>
-
 <br>
 <br>
 <br>
@@ -345,19 +343,48 @@ manifesto
 <details close>
 <summary>after effects</summary>
 
+<br>
+<br>
+<br>
+
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lJdkH65-gOc
+" target="_blank"><img src="http://img.youtube.com/vi/lJdkH65-gOc/0.jpg" 
+width="300" height="180" border="10" /></a>
+</p>
+<p align="left">
+Yo
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lb1TpQ4It8A
+" target="_blank"><img src="http://img.youtube.com/vi/lb1TpQ4It8A/0.jpg" 
+width="300" height="180" border="10" /></a>
+</p>
+<p align="left">
+Yoon
+</p>
+
+<br>
+<br>
+<br>
+
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ENUiHrDeAq0
 " target="_blank"><img src="http://img.youtube.com/vi/ENUiHrDeAq0/0.jpg" 
 width="300" height="180" border="10" /></a>
 </p>
 <p align="left">
-<samp>STOP MOTION ANIMATION W/ KARWAAN & JOON</samp>
+STOP MOTION ANIMATION W/ stella & karwaan
 </p>
 
-
-
 </details>
- 
+</p>
+
 <br>
 <br>
 <br>
