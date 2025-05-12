@@ -172,24 +172,77 @@ heejoonlee3042@gmail.com
 WORKS
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <details open>
 <summary>lightroom</summary>
 
+</details>
+
+
+
 <details open>
 <summary>photoshop</summary>
+
+</details>
+
+
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
 bless.jpg
 
+</details>
+
+
+
 <details open>
 <summary>illustrator</summary>
+
+</details>
+
+
 
 <details open>
 <summary>premiere</summary>
 
+</details>
+
+
+
 <details open>
 <summary>after effects</summary>
+
+</details>
  
 
 
