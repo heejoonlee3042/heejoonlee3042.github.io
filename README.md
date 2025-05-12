@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-<img src = "heejoonleebioimg.png" width = 2000>
+<img src = "heejoonleebioimg.png" width = 2500>
 </p>
 
 <br>
@@ -231,6 +231,7 @@ WORKS
 
 <br>
 <br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 700>
@@ -241,6 +242,7 @@ caught
 
 <br>
 <br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/caught 2 (1).jpg" width = 700>
@@ -249,6 +251,7 @@ caught
 measuring
 </p>
 
+<br>
 <br>
 <br>
 
@@ -274,6 +277,7 @@ fight
 
 <br>
 <br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/Benon Looking for a Parking Spot.jpg" width = 700>
@@ -282,6 +286,7 @@ fight
 bless
 </p>
 
+<br>
 <br>
 <br>
 
