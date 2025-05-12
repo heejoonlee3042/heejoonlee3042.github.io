@@ -229,6 +229,10 @@ WORKS
 <details close>
 <summary>lightroom</summary>
 
+<br>
+<br>
+<br>
+
 <p align="center">
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 300>
 </p>
@@ -236,15 +240,23 @@ WORKS
 caught
 </p>
 
+<br>
+<br>
+<br>
+
 <p align="center">
-<img src = "PortfolioImages/caught 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/caught 2 (1).jpg" width = 500>
 </p>
 <p align="center">
 measuring
 </p>
 
+<br>
+<br>
+<br>
+
 <p align="center">
-<img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 300>
+<img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 500>
 </p>
 <p align="center">
 fight
@@ -256,31 +268,37 @@ fight
 <br>
 <br>
 <br>
+<br>
+<br>
 
+<p align="center">
 <details close>
 <summary>photoshop</summary>
 
-</details>
-
 <br>
 <br>
 <br>
 
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
+<img src = "PortfolioImages/bless.jpg" width = 500>
 </p>
 <p align="center">
 bless
 </p>
 
+<br>
+<br>
+<br>
+
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
+<img src = "PortfolioImages/bless.jpg" width = 500>
 </p>
 <p align="center">
 bless
 </p>
 
 </details>
+</p>
 
 <br>
 <br>
@@ -290,9 +308,8 @@ bless
 <summary>illustrator</summary>
 
 <p align="center">
-<img src = "PortfolioImages/manifesto 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/manifesto 2 (1).jpg" width = 500>
 </p>
-
 <p align="center">
 manifesto
 </p>
