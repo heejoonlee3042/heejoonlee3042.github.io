@@ -229,21 +229,21 @@ WORKS
 <summary>lightroom</summary>
 
 <p align="center">
-<img src = "PortfolioImages/caught.tif" width = 300>
+<img src = "PortfolioImages/caught.tif" width = 500>
 </p>
 <p align="center">
 caught
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/chair measuring.tif" width = 300>
+<img src = "PortfolioImages/chair measuring.tif" width = 500>
 </p>
 <p align="center">
 measuring
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/fight.tif" width = 300>
+<img src = "PortfolioImages/fight.tif" width = 500>
 </p>
 <p align="center">
 fight
