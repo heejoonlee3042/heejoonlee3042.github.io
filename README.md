@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img src = "heejoonleebioimg.png" width = 1100>
+<img src = "heejoonleebioimg.png" width = 900>
 
 <br>
 <br>
@@ -63,7 +63,7 @@
 <br>
 
 <p align="center">
-**BIO**
+BIO
 </p>
 
 <br>
@@ -169,7 +169,7 @@ heejoonlee3042@gmail.com
 <br>
 
 <p align="center"> 
-**WORKS**
+WORKS
 </p>
 
 <details open>
