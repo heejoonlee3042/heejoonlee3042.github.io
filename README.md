@@ -282,7 +282,7 @@ fight
 <img src = "PortfolioImages/Benon Looking for a Parking Spot.jpg" width = 700>
 </p>
 <p align="center">
-bless
+lakeland terrier looking for a parking spot
 </p>
 
 <br>
