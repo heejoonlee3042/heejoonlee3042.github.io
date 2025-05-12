@@ -231,7 +231,6 @@ WORKS
 
 <br>
 <br>
-<br>
 
 <p align="center">
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 700>
@@ -309,6 +308,10 @@ bless
 <p align="center">
 <details close>
 <summary>illustrator</summary>
+
+<br>
+<br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/manifesto 2 (1).jpg" width = 700>
