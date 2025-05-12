@@ -231,13 +231,22 @@ WORKS
 <p align="center">
 <img src = "PortfolioImages/bless.jpg" width = 300>
 </p>
-
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
+<samp>MY BEAUTIFUL SISTER</samp>
 </p>
 
 <p align="center">
 <img src = "PortfolioImages/bless.jpg" width = 300>
+</p>
+<p align="center">
+<samp>MY BEAUTIFUL SISTER</samp>
+</p>
+
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 300>
+</p>
+<p align="center">
+<samp>MY BEAUTIFUL SISTER</samp>
 </p>
 
 </details>
