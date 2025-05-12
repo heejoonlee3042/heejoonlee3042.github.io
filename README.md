@@ -17,7 +17,7 @@ born october third two thousand six around one pm
 </p>
 
 <p align="center">
-[개천절]
+개천절
 </p>
 
 ------
