@@ -29,7 +29,9 @@
 <br>
 <br>
 
+<p align="center">
 <img src = "heejoonleebioimg.png" width = 900>
+</p>
 
 <br>
 <br>
