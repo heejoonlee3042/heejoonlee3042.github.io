@@ -100,15 +100,11 @@ BIO
 </p>
 
 <br>
-<br>
-<br>
 
 <p align="center">
 李禧俊
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center"> 
@@ -126,8 +122,6 @@ HeeJoonLee
 born october third two thousand six around one pm
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
