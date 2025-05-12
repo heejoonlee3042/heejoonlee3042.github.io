@@ -243,7 +243,7 @@ measuring
 </p>
 
 <p align="center">
-<img src = "chair measuring 2 (2).jpg" width = 300>
+<img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 300>
 </p>
 <p align="center">
 fight
