@@ -228,6 +228,18 @@ WORKS
 <details open>
 <summary>lightroom</summary>
 
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 300>
+</p>
+
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 300>
+</p>
+
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 300>
+</p>
+
 </details>
 
 <br>
