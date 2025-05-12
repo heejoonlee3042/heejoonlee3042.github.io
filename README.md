@@ -63,7 +63,7 @@
 <br>
 
 <p align="center">
-BIO
+**BIO**
 </p>
 
 <br>
@@ -140,14 +140,41 @@ heejoonlee3042@gmail.com
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-------
+<p align="center"> 
+**WORKS**
+</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<details open>
+<summary><samp>WORKS</samp></summary>
+
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
