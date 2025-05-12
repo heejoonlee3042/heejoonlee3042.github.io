@@ -333,6 +333,9 @@ manifesto
 <details close>
 <summary>premiere</summary>
 
+</details>
+</p>
+
 <br>
 <br>
 <br>
