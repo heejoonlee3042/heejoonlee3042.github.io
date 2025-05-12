@@ -173,12 +173,25 @@ WORKS
 </p>
 
 <details open>
-<summary><samp>WORKS</samp></summary>
+<summary>lightroom</summary>
 
+<details open>
+<summary>photoshop</summary>
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
 bless.jpg
+
+<details open>
+<summary>illustrator</summary>
+
+<details open>
+<summary>premiere</summary>
+
+<details open>
+<summary>after effects</summary>
+ 
+
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
