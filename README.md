@@ -229,24 +229,24 @@ WORKS
 <summary>lightroom</summary>
 
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
+<img src = "PortfolioImages/caught.tif" width = 300>
 </p>
 <p align="center">
-<samp>MY BEAUTIFUL SISTER</samp>
-</p>
-
-<p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
-</p>
-<p align="center">
-<samp>MY BEAUTIFUL SISTER</samp>
+caught
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 300>
+<img src = "PortfolioImages/chair measuring.tif" width = 300>
 </p>
 <p align="center">
-<samp>MY BEAUTIFUL SISTER</samp>
+measuring
+</p>
+
+<p align="center">
+<img src = "PortfolioImages/fight.tif" width = 300>
+</p>
+<p align="center">
+fight
 </p>
 
 </details>
