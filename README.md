@@ -345,6 +345,17 @@ manifesto
 <details close>
 <summary>after effects</summary>
 
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ENUiHrDeAq0
+" target="_blank"><img src="http://img.youtube.com/vi/ENUiHrDeAq0/0.jpg" 
+width="300" height="180" border="10" /></a>
+</p>
+<p align="left">
+<samp>STOP MOTION ANIMATION W/ KARWAAN & JOON</samp>
+</p>
+
+
+
 </details>
  
 <br>
