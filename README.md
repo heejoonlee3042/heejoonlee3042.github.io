@@ -228,6 +228,7 @@ WORKS
 <p align="center">
 <details close>
 <summary>lightroom</summary>
+</p>
 
 <br>
 <br>
