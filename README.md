@@ -27,9 +27,11 @@
 <br>
 <br>
 <br>
+<br>
 
 <img src = "heejoonleebioimg.png" width = 1100>
 
+<br>
 <br>
 <br>
 <br>
@@ -93,6 +95,7 @@ BIO
 <br>
 <br>
 <br>
+<br>
 
 <p align="center">
 이희준
@@ -109,8 +112,6 @@ HeeJoonLee
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center"> 
 born october third two thousand six around one pm
@@ -123,8 +124,6 @@ born october third two thousand six around one pm
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
 Seoul, Los Angeles, New York
@@ -133,15 +132,11 @@ Seoul, Los Angeles, New York
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
 heejoonlee3042@gmail.com
 </p>
 
-<br>
-<br>
 <br>
 <br>
 <br>
