@@ -352,7 +352,7 @@ manifesto
 " target="_blank"><img src="http://img.youtube.com/vi/lJdkH65-gOc/0.jpg" 
 width="300" height="180" border="10" /></a>
 </p>
-<p align="left">
+<p align="center">
 Yo
 </p>
 
@@ -365,7 +365,7 @@ Yo
 " target="_blank"><img src="http://img.youtube.com/vi/lb1TpQ4It8A/0.jpg" 
 width="300" height="180" border="10" /></a>
 </p>
-<p align="left">
+<p align="center">
 Yoon
 </p>
 
@@ -378,8 +378,8 @@ Yoon
 " target="_blank"><img src="http://img.youtube.com/vi/ENUiHrDeAq0/0.jpg" 
 width="300" height="180" border="10" /></a>
 </p>
-<p align="left">
-STOP MOTION ANIMATION W/ stella & karwaan
+<p align="center">
+stop motion animation with stella & karwaan
 </p>
 
 </details>
