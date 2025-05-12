@@ -272,12 +272,18 @@ fight
 <details close>
 <summary>photoshop</summary>
 
+<br>
+<br>
+
 <p align="center">
-<img src = "PortfolioImages/bless.jpg" width = 700>
+<img src = "PortfolioImages/Benon Looking for a Parking Spot.jpg" width = 700>
 </p>
 <p align="center">
 bless
 </p>
+
+<br>
+<br>
 
 <p align="center">
 <img src = "PortfolioImages/bless.jpg" width = 700>
