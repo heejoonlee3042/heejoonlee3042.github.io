@@ -229,21 +229,21 @@ WORKS
 <summary>lightroom</summary>
 
 <p align="center">
-<img src = "PortfolioImages/caught.tif" width = 500>
+<img src = "fight 2 (1).jpg" width = 500>
 </p>
 <p align="center">
 caught
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/chair measuring.tif" width = 500>
+<img src = "caught 2 (1).jpg" width = 500>
 </p>
 <p align="center">
 measuring
 </p>
 
 <p align="center">
-<img src = "PortfolioImages/fight.tif" width = 500>
+<img src = "chair measuring 2 (2).jpg" width = 500>
 </p>
 <p align="center">
 fight
@@ -264,9 +264,19 @@ fight
 <br>
 <br>
 
-<img src = "PortfolioImages/bless.jpg" width = 200>
-![alt text here](fight.tif)
-bless.jpg
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 500>
+</p>
+<p align="center">
+bless
+</p>
+
+<p align="center">
+<img src = "PortfolioImages/bless.jpg" width = 500>
+</p>
+<p align="center">
+bless
+</p>
 
 </details>
 
@@ -276,6 +286,14 @@ bless.jpg
 
 <details open>
 <summary>illustrator</summary>
+
+<p align="center">
+<img src = "manifesto 2 (1).jpg" width = 500>
+</p>
+
+<p align="center">
+bless
+</p>
 
 </details>
 
