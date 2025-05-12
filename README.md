@@ -62,7 +62,7 @@
 <br>
 
 <p align="center">
-# BIO
+BIO
 </p>
 
 <br>
