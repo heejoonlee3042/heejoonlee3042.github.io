@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img src = "heejoonleebioimg.png" width = 1500>
+<img src = "heejoonleebioimg.png" width = 1100>
 
 <br>
 <br>
