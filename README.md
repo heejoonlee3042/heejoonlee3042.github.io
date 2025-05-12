@@ -1,4 +1,4 @@
-<br>
+------
 <br>
 <br>
 <br>
@@ -29,8 +29,27 @@
 <br>
 <br>
 
-<img src = "heejoonleebioimg.png" width = 1100>
+<img src = "heejoonleebioimg.png" width = 1500>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
