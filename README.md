@@ -1,23 +1,23 @@
 # ![image](https://github.com/user-attachments/assets/5b446558-855b-4851-b443-354dad46ee77)
 
 <p align="center">
-######            이희준
+이희준
 </p>
 
 <p align="center">
-######            李禧俊
+李禧俊
 </p>
 
 <p align="center"> 
-######         HeeJoonLee
+HeeJoonLee
 </p>
 
 <p align="center"> 
-###### born october third two thousand six around one pm
+born october third two thousand six around one pm
 </p>
 
 <p align="center">
-###### [개천절](https://www.youtube.com/watch?v=cm8_rkan5qo)
+[개천절]
 </p>
 
 ------
