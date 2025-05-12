@@ -1,7 +1,11 @@
 <p align="center">
 "The yellow tape surrounds the fate
- Don't have a face so now you late,
- open the gates"
+</p>
+<p align="center">
+Don't have a face so now you late,
+</p>
+<p align="center">
+open the gates"
 </p>
 
 <br>
