@@ -229,14 +229,14 @@ WORKS
 <summary>lightroom</summary>
 
 <p align="center">
-<img src = "fight 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/fight 2 (1).jpg" width = 300>
 </p>
 <p align="center">
 caught
 </p>
 
 <p align="center">
-<img src = "caught 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/caught 2 (1).jpg" width = 300>
 </p>
 <p align="center">
 measuring
@@ -288,11 +288,11 @@ bless
 <summary>illustrator</summary>
 
 <p align="center">
-<img src = "manifesto 2 (1).jpg" width = 300>
+<img src = "PortfolioImages/manifesto 2 (1).jpg" width = 300>
 </p>
 
 <p align="center">
-bless
+manifesto
 </p>
 
 </details>
