@@ -112,7 +112,6 @@ HeeJoonLee
 <br>
 <br>
 <br>
-<br>
 
 <p align="center"> 
 born october third two thousand six around one pm
@@ -122,7 +121,6 @@ born october third two thousand six around one pm
 개천절
 </p>
 
-<br>
 <br>
 <br>
 <br>
@@ -138,7 +136,6 @@ Seoul, Los Angeles, New York
 <br>
 <br>
 <br>
-<br>
 
 <p align="center">
 heejoonlee3042@gmail.com
@@ -149,9 +146,14 @@ heejoonlee3042@gmail.com
 <br>
 <br>
 <br>
-<br>
 
 ------
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
