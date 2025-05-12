@@ -229,10 +229,6 @@ WORKS
 <details close>
 <summary>lightroom</summary>
 
-<br>
-<br>
-<br>
-
 <p align="center">
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 300>
 </p>
@@ -240,20 +236,12 @@ WORKS
 caught
 </p>
 
-<br>
-<br>
-<br>
-
 <p align="center">
 <img src = "PortfolioImages/caught 2 (1).jpg" width = 500>
 </p>
 <p align="center">
 measuring
 </p>
-
-<br>
-<br>
-<br>
 
 <p align="center">
 <img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 500>
@@ -275,20 +263,12 @@ fight
 <details close>
 <summary>photoshop</summary>
 
-<br>
-<br>
-<br>
-
 <p align="center">
 <img src = "PortfolioImages/bless.jpg" width = 500>
 </p>
 <p align="center">
 bless
 </p>
-
-<br>
-<br>
-<br>
 
 <p align="center">
 <img src = "PortfolioImages/bless.jpg" width = 500>
@@ -303,8 +283,11 @@ bless
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<details open>
+<p align="center">
+<details close>
 <summary>illustrator</summary>
 
 <p align="center">
@@ -315,12 +298,16 @@ manifesto
 </p>
 
 </details>
+</p>
 
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<details open>
+<p align="center">
+<details close>
 <summary>premiere</summary>
 
 </details>
@@ -328,8 +315,11 @@ manifesto
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<details open>
+<p align="center">
+<details close>
 <summary>after effects</summary>
 
 </details>
