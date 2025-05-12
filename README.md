@@ -210,14 +210,18 @@ WORKS
 
 </details>
 
-
+<br>
+<br>
+<br>
 
 <details open>
 <summary>photoshop</summary>
 
 </details>
 
-
+<br>
+<br>
+<br>
 
 <img src = "PortfolioImages/bless.jpg" width = 200>
 ![alt text here](fight.tif)
@@ -225,29 +229,66 @@ bless.jpg
 
 </details>
 
-
+<br>
+<br>
+<br>
 
 <details open>
 <summary>illustrator</summary>
 
 </details>
 
-
+<br>
+<br>
+<br>
 
 <details open>
 <summary>premiere</summary>
 
 </details>
 
-
+<br>
+<br>
+<br>
 
 <details open>
 <summary>after effects</summary>
 
 </details>
  
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
