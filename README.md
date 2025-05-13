@@ -365,7 +365,7 @@ ialwayshavemytoesonthegas
 width="300" height="180" border="10" /></a>
 </p>
 <p align="center">
-Yo
+yo
 </p>
 
 <br>
@@ -378,7 +378,7 @@ Yo
 width="300" height="180" border="10" /></a>
 </p>
 <p align="center">
-Yoon
+yoon
 </p>
 
 <br>
@@ -397,52 +397,6 @@ stop motion animation with stella & karwaan
 </details>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
