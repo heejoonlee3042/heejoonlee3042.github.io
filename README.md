@@ -128,7 +128,7 @@ BIO
 </p>
 
 <p align="center"> 
-HeeJoonLee
+LeeHeeJoon
 </p>
 
 <br>
