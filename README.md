@@ -236,7 +236,7 @@ WORKS
 <img src = "PortfolioImages/fight 2 (1).jpg" width = 700>
 </p>
 <p align="center">
-caught
+fight
 </p>
 
 <br>
@@ -247,7 +247,7 @@ caught
 <img src = "PortfolioImages/caught 2 (1).jpg" width = 700>
 </p>
 <p align="center">
-measuring
+caught
 </p>
 
 <br>
@@ -258,7 +258,7 @@ measuring
 <img src = "PortfolioImages/chair measuring 2 (2).jpg" width = 700>
 </p>
 <p align="center">
-fight
+measuring
 </p>
 
 </details>
